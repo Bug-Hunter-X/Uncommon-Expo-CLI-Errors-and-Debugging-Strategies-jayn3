@@ -1,0 +1,1 @@
+This error occurs when using the Expo CLI to manage a React Native project, and it typically indicates a problem with the project's configuration or dependencies.  The exact manifestation varies, but frequently involves issues during builds, starts, or linking. The error message is often vague, not pointing to the specific root cause, making it difficult to diagnose.
